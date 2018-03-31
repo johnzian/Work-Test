@@ -1,0 +1,44 @@
+*{
+    box-sizing:border-box;
+}
+html{
+    height:100%;
+}
+body{
+    height: 100%;
+    margin: 0;
+    font-family: "方正准圆", Arial, Helvetica, sans-serif;
+}
+img{
+    vertical-align:middle;
+}
+p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+}
+a{
+    text-decoration:none;
+}
+.lf{
+    float:left;
+}
+.rt{
+    float:right;
+}
+.clear:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+}
+#logoPic{
+    width:11.75rem;
+    height:5.2rem;
+}
+.showNothing{
+    display: none;
+}

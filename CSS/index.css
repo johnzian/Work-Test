@@ -1,0 +1,159 @@
+.index{
+    min-height: 100%;
+    background-image: url("../images/特约会员狂欢兑门店APP首页-640x960.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0 10% 44px 10%;
+}
+.title{
+    margin-top:1.35rem;
+}
+.titlePic{
+    width: 100%;
+}
+.exchange{
+    margin-top: 10px;
+
+}
+.exchangeTitle{
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #00327f;
+}
+.phone{
+    width: 100%;
+    height: 2.4rem;
+    border-radius: 1rem;
+    border: solid 1px #b1b1b1;
+    padding-left: 0.85rem;
+    margin-top: 0.75rem;
+    font-size: 1.3rem;
+    color: #a6a6a6;
+}
+.exchangeCode{
+    width: 100%;
+    height: 2.4rem;
+    border-radius: 1rem;
+    border: solid 1px #b1b1b1;
+    padding-left: 0.85rem;
+    margin-top: 0.75rem;
+    font-size: 1.3rem;
+    color: #a6a6a6;
+}
+.codeState{
+    width: 100%;
+    margin: 10px 0;
+    font-size: 1.05rem;
+    font-weight: bold;
+    color: #00327f;
+}
+.productExchange{
+    text-align: center;
+}
+.productTransCode{
+    width: 100%;
+    height: 2.4rem;
+    border-radius: 1rem;
+    border: solid 1px #b1b1b1;
+    padding-left: 0.85rem;
+    font-size: 1.3rem;
+    color: #a6a6a6;
+}
+.sureBtn{
+    width: 100%;
+    height: 3.64rem;
+    background-color: #ed6d00;
+    border-radius: 50px;
+    border: none;
+    margin: 1.7rem 0;
+    font-size: 26px;
+    color: #ffffff;
+}
+.rule{
+    background-color: rgba(255,255,255,0.49);
+    padding: 1.14rem;
+    color: #00418e;
+    font-size: 1.14rem;
+}
+.footer{
+    display: flex;
+    margin-top: 1.28rem;
+    justify-content: center;
+    text-align: center;
+}
+.ruleA{
+    display: inline-block;
+    width: 14.42rem;
+    height: 3.64rem;
+    background-color: #3cb0e4;
+    border-radius: 50px;
+    margin-right: 1.14rem;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 3.64rem;
+}
+.recordA{
+    display: inline-block;
+    width: 14.42rem;
+    height: 3.64rem;
+    background-color: #ed6d00;
+    border-radius: 50px;
+    margin-left: 1.14rem;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 3.64rem;
+}
+.mask{
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.8);
+    padding: 80px 10px;
+}
+.warning {
+    width: 100%;
+    height: 80%;
+    background-image: url(../images/特约会员狂欢兑弹框空白背景-380x380.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.warningHead{
+    text-align: center;
+    position: relative;
+}
+.waringLogo{
+    width: 200px;
+}
+.closeBtn{
+    width: 30px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.warningBody{
+    margin-top: 20px;
+    text-align: center;
+    padding: 0 60px;
+}
+.warningPic{
+    width: 100%;
+}
+.warningFotter{
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 50px;
+}
+.warningBtn{
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    background-color: #3cb0e4;
+    border-radius: 10px;
+    font-size: 18px;
+    line-height: 40px;
+    color: #fff;
+}

@@ -1,0 +1,50 @@
+.main{
+    min-height: 100%;
+    background-image: url("../images/特约会员狂欢兑门店APP首页-640x960.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0 20px 32px 20px;
+}
+.title{
+    margin-top:1.35rem;
+}
+.titlePic{
+    width: 100%;
+}
+.actDetails{
+    margin-top: 4px;
+}
+.actPic{
+    width: 100%;
+}
+.product{
+    width: 100%;
+    margin-top: 18px;
+}
+.productPic{
+    width: 100%;
+}
+.rule{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.49);
+    padding: 15px;
+    margin-top: -15px;
+    font-size: 14px;
+    color: #00418e;
+}
+.btnGroup{
+    width: 100%;
+    text-align: center;
+}
+.indexBtn{
+    display: inline-block;
+    width: 14.428571428571429rem;
+    height: 3.642857142857143rem;
+    margin-top: 1.2142857142857142rem;
+    background-color: #ed6d00;
+    border-radius: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.8571428571428572rem;
+    line-height: 3.642857142857143rem;
+}

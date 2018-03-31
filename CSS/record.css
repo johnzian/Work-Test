@@ -1,0 +1,122 @@
+.main{
+    min-height: 100%;
+    background-image: url("../images/特约会员狂欢兑门店APP首页-640x960.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0 10% 44px 10%;
+}
+.title{
+    margin-top: 40px;
+}
+.titlePic{
+    width: 100%;
+}
+.search{
+    display: flex;
+    margin-top: 1.5rem;
+}
+.searchTitle{
+    height: 32px;
+    width: 30%;
+    margin-right: 16px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #00327f;
+}
+.searchInput{
+    width: 50%;
+    height: 32px;
+    margin-right: 16px;
+    padding-left: 6px;
+    background-color: #ffffff;
+    border: solid 1px #b1b1b1;
+    border-radius: 24px;
+    font-size: 0.8rem;
+}
+.searchBtn{
+    height: 32px;
+    width: 35%;
+    background-color: #ed6d00;
+    box-shadow: 0 1px 2px 0 rgba(21, 13, 7, 0.45);
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.list{
+    width: 100%;
+    margin-top: 10px;
+}
+.listHead{
+    display: flex;
+}
+.listTitle{
+    width: 25%;
+    padding: 4px;
+    background-color: #55c2f0;
+    border: 1px solid #00418e;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #fff;
+}
+.listBody{
+    display: flex;
+}
+.listDetails{
+    width: 25%;
+    padding: 5px;
+    border: 1px solid #00418e;
+    text-align: center;
+    font-size: 12px;
+    color: #00418e;
+    word-break: break-all;
+}
+.line1{
+    background-color: #fff;
+}
+.line2{
+    background-color: #daf0fc;
+}
+.listTopLeft{
+    border-top-left-radius: 10px;
+}
+.listTopRight{
+    border-top-right-radius: 10px;
+}
+.listBottomBody{
+    border-radius: 10px;
+}
+.listBottomLeft{
+    border-bottom-left-radius: 10px;
+}
+.listBottomRight{
+    border-bottom-right-radius: 10px;
+}
+.goIndex{
+    margin-top: 10px;
+    text-align: center;
+}
+.indexBtn{
+    display: inline-block;
+    width: 218px;
+    height: 56px;
+    font-size: 26px;
+    line-height: 56px;
+    color: #fff;
+    background-color: #ed6d00;
+    border-radius: 30px;
+}
+.pageList{
+    margin-top: 14px;
+}
+.pageList>ul{
+    display: flex;
+    justify-content: space-between;
+}
+.pageList li{
+    color: #00327f;
+    font-weight: bold;
+}
